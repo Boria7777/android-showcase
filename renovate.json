@@ -30,7 +30,7 @@
         "org.jetbrains.kotlin.*",
         "com.google.devtools.ksp"
       ],
-      "enabled": false
+      "enabled": true
     }
   ]
 }
